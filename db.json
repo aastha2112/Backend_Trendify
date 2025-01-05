@@ -1,0 +1,267 @@
+{
+    "user": [
+        {
+            "username": "Sahil Thakur",
+            "email": "husanthakur1@gmail.com",
+            "password": "asdfghjkl",
+            "wishlist": [
+                {
+                    "name": "Women's High Heels",
+                    "price": 45,
+                    "rating": 4.3,
+                    "description": "Elegant high heels for parties.",
+                    "stock": 9,
+                    "imageUrl": "https://rukminim2.flixcart.com/image/612/612/l5e81ow0/sandal/z/z/5/2-9213-shezone-cream-original-imagg2z6d2kaqyxv.jpeg?q=70",
+                    "category": "Shoes"
+                }
+            ],
+            "cart": [],
+            "id": 16
+        }
+    ],
+    "products": [
+        {
+            "name": "Men's Loose Fit Sweatshirt",
+            "price": 40,
+            "rating": 4.8,
+            "description": "Cozy Loose Fit Sweatshirt for casual winter days.",
+            "stock": 18,
+            "imageUrl": "https://image.hm.com/assets/hm/50/6f/506fc824c220d3de3811fe1e9fb9f7b8e55d9dc6.jpg?imwidth=396",
+            "category": "Men's Clothing"
+        },
+        {
+            "name": "Men's Regular Fit Coated Jacket",
+            "price": 150,
+            "rating": 4.9,
+            "description": "Premium down jacket for extra warmth.",
+            "stock": 8,
+            "imageUrl": "https://image.hm.com/assets/hm/2b/08/2b08044e9885ecfbbebb2346bfb730a1ab11d648.jpg?imwidth=396",
+            "category": "Men's Clothing"
+        },
+        {
+            "name": "Men's Winter Beanie",
+            "price": 15.99,
+            "rating": 4.3,
+            "description": "Soft and warm winter beanie.",
+            "stock": 25,
+            "imageUrl": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fdb%2F2a%2Fdb2a05f8a0873a42ee9c0b0f5ee088c99bd7daaf.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+            "category": "Men's Clothing"
+        },
+        {
+            "name": "Men's Wool Sweater",
+            "price": 60,
+            "rating": 4.6,
+            "description": "Classic wool sweater for cold days.",
+            "stock": 12,
+            "imageUrl": "https://image.hm.com/assets/hm/65/5a/655ad82258d0b41193c1c14b0c74999dae10a962.jpg?imwidth=396",
+            "category": "Men's Clothing"
+        },
+        {
+            "name": "Men's Winter Gloves",
+            "price": 20.5,
+            "rating": 4.4,
+            "description": "Insulated gloves for keeping hands warm.",
+            "stock": 30,
+            "imageUrl": "https://image.hm.com/assets/hm/09/f9/09f9bf75f42131089c3b601a5d76d5c11f6d2237.jpg?imwidth=396",
+            "category": "Men's Clothing"
+        },
+        {
+            "name": "Women's Long Wool Coat",
+            "price": 130.99,
+            "rating": 4.8,
+            "description": "Elegant long wool coat for winter outings.",
+            "stock": 10,
+            "imageUrl": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F27%2F0e%2F270e9fd552488f72c682439f2a0088e5140aa6f4.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+            "category": "Women's Clothing"
+        },
+        {
+            "name": "Women's Faux Fur Jacket",
+            "price": 110,
+            "rating": 4.7,
+            "description": "Stylish and cozy faux fur jacket.",
+            "stock": 8,
+            "imageUrl": "https://image.hm.com/assets/hm/2e/bf/2ebf1d07f300fa6a40dec98a07f3c8c40620fa60.jpg?imwidth=396",
+            "category": "Women's Clothing"
+        },
+        {
+            "name": "Women's Knit Scarf",
+            "price": 25,
+            "rating": 4.5,
+            "description": "Warm knit scarf with trendy design.",
+            "stock": 20,
+            "imageUrl": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fab%2Ff2%2Fabf2ef06b79b04e96c4eeb22f8e9e2d505613995.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+            "category": "Women's Clothing"
+        },
+        {
+            "name": "Women's Oversized polo-neck jumper",
+            "price": 170,
+            "rating": 4.9,
+            "description": "High-performance jumper for cold.",
+            "stock": 5,
+            "imageUrl": "https://image.hm.com/assets/hm/83/3b/833b3288cd6e10a44cfaa5b6a01c80db68fe7d20.jpg?imwidth=396",
+            "category": "Women's Clothing"
+        },
+        {
+            "name": "Women's Thermal Leggings",
+            "price": 30,
+            "rating": 4.6,
+            "description": "Warm and stretchy thermal leggings.",
+            "stock": 15,
+            "imageUrl": "https://image.hm.com/assets/hm/ef/a8/efa858a4ce63cb40f86658a6a5f454433f2684ca.jpg?imwidth=396",
+            "category": "Women's Clothing"
+        },
+        {
+            "name": "Kids' Winter Jacket",
+            "price": 70,
+            "rating": 4.8,
+            "description": "Bright and colorful winter jacket.",
+            "stock": 12,
+            "imageUrl": "https://image.hm.com/assets/hm/d6/11/d6111ba657f491ebe1c4e3531153fe5cc2f9e62c.jpg?imwidth=396",
+            "category": "Kids' Wear"
+        },
+        {
+            "name": "Kids' Snow Boots",
+            "price": 45,
+            "rating": 4.7,
+            "description": "Waterproof boots for snow play.",
+            "stock": 18,
+            "imageUrl": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F7a%2F7c%2F7a7c22e022b3b5b63d8158ed3a9ed80cb86b5ca2.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+            "category": "Kids' Wear"
+        },
+        {
+            "name": "Kids' Thermal Set",
+            "price": 35,
+            "rating": 4.6,
+            "description": "Soft and warm thermal set.",
+            "stock": 20,
+            "imageUrl": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F6f%2Fa9%2F6fa921f71e1e73e055f65b38108e001f4ea70ae1.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bkids_girls_boys_newarrivals%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+            "category": "Kids' Wear"
+        },
+        {
+            "name": "Kids' Wool Sweater",
+            "price": 28,
+            "rating": 4.5,
+            "description": "Cozy wool sweater for chilly days.",
+            "stock": 15,
+            "imageUrl": "https://image.hm.com/assets/hm/a9/72/a972b96694265f6724ec127dd78a5821221ae687.jpg?imwidth=396",
+            "category": "Kids' Wear"
+        },
+        {
+            "name": "Men's Leather Shoes",
+            "price": 85,
+            "rating": 4.7,
+            "description": "Premium leather shoes for all occasions.",
+            "stock": 10,
+            "imageUrl": "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/s/j/c/-original-imah6aj6vhtnvtgz.jpeg?q=70",
+            "category": "Shoes"
+        },
+        {
+            "name": "Women's Ankle Boots",
+            "price": 60,
+            "rating": 4.8,
+            "description": "Trendy and comfortable ankle boots.",
+            "stock": 14,
+            "imageUrl": "https://petalandpup.com/cdn/shop/files/SEVARA-BLACKCRINKLEPATENT.jpg?v=1733699816&width=720",
+            "category": "Shoes"
+        },
+        {
+            "name": "Men's Running Shoes",
+            "price": 50,
+            "rating": 4.6,
+            "description": "Durable running shoes with excellent grip.",
+            "stock": 18,
+            "imageUrl": "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/z/t/v/6-casual-sports-shoe-6-maflo-navy-original-imagnfbrejjmtbjz.jpeg?q=70",
+            "category": "Shoes"
+        },
+        {
+            "name": "Women's High Heels",
+            "price": 45,
+            "rating": 4.3,
+            "description": "Elegant high heels for parties.",
+            "stock": 9,
+            "imageUrl": "https://rukminim2.flixcart.com/image/612/612/l5e81ow0/sandal/z/z/5/2-9213-shezone-cream-original-imagg2z6d2kaqyxv.jpeg?q=70",
+            "category": "Shoes"
+        },
+        {
+            "name": "Leather Tote Bag",
+            "price": 75,
+            "rating": 4.7,
+            "description": "Spacious and stylish leather tote bag.",
+            "stock": 15,
+            "imageUrl": "https://image.hm.com/assets/hm/b7/89/b789e6666fff7eb2b2b31935145ec786666698e3.jpg?imwidth=396",
+            "category": "Bags and Accessories"
+        },
+        {
+            "name": "Woolen Scarf",
+            "price": 20,
+            "rating": 4.6,
+            "description": "Soft woolen scarf without vibrant patterns.",
+            "stock": 22,
+            "imageUrl": "https://image.hm.com/assets/hm/ce/cc/cecc89e8b59c20ae64eb97f72b1a06ce1c64cc55.jpg?imwidth=396",
+            "category": "Bags and Accessories"
+        },
+        {
+            "name": "Table Lamp",
+            "price": 30,
+            "rating": 4.8,
+            "description": "Modern table lamp with sleek design.",
+            "stock": 15,
+            "imageUrl": "https://ii1.pepperfry.com/media/catalog/product/m/u/494x544/multicolour-shade-table-lamp-with-iron-base-by-new-era-multicolour-shade-table-lamp-with-iron-base-b-ljgqoc.jpg",
+            "category": "Home Decor"
+        },
+        {
+            "name": "Ceramic Vase",
+            "price": 25,
+            "rating": 4.5,
+            "description": "Handcrafted ceramic vase for flowers.",
+            "stock": 12,
+            "imageUrl": "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/300982655001_1_800x.jpg?v=1724342138",
+            "category": "Home Decor"
+        },
+        {
+            "name": "Classic Leather Wallet",
+            "price": 45,
+            "rating": 4.8,
+            "description": "Premium leather wallet with multiple compartments.",
+            "stock": 25,
+            "imageUrl": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_500,h_500/global/054227/01/fnd/IND/fmt/png/Porsche-Legacy-Unisex-Wallet",
+            "category": "Bags and Accessories"
+        },
+        {
+            "name": "Beaded Necklace",
+            "price": 25,
+            "rating": 4.6,
+            "description": "Beautiful handcrafted beaded necklace.",
+            "stock": 20,
+            "imageUrl": "https://petalandpup.com/cdn/shop/files/LeniNecklace-Pearl1.jpg?v=1731885899&width=720",
+            "category": "Bags and Accessories"
+        },
+        {
+            "name": "Silk Pocket Square",
+            "price": 15,
+            "rating": 4.5,
+            "description": "Elegant silk pocket square for formal occasions.",
+            "stock": 30,
+            "imageUrl": "https://tossido.in/cdn/shop/files/0T6A9043_400x.jpg?v=1732781880",
+            "category": "Bags and Accessories"
+        },
+        {
+            "name": "Canvas Messenger Bag",
+            "price": 60,
+            "rating": 4.7,
+            "description": "Durable canvas messenger bag for daily use.",
+            "stock": 12,
+            "imageUrl": "https://bombaytrooper.com/wp-content/uploads/2019/11/BGTN02-BK-B2.webp",
+            "category": "Bags and Accessories"
+        },
+        {
+            "name": "Travel Duffel Bag",
+            "price": 90,
+            "rating": 4.9,
+            "description": "Spacious and lightweight duffel bag for travel.",
+            "stock": 8,
+            "imageUrl": "https://cdn.staticans.com/image/tr:e-sharpen-01,h-572,w-572,cm-pad_resize/catalog/americantourister/product/LL7096001/LL7096001_1.jpg",
+            "category": "Bags and Accessories"
+        }
+    ]
+}
